@@ -1,0 +1,13 @@
+account #: 1234509876
+beginning balance: 2000.00
+W:Discover:1234.56
+W:ODP:398.51
+W:Verizon:45.23
+D:uvawise:1500.00
+W:Bank of America:1398.45
+W:ATM:100.00
+W:Food City:123.65
+W:WalMart:140.32
+W:ATM:100.00
+D:uvawise:1500.00
+W:Food City:150.43
